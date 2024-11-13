@@ -8,8 +8,6 @@
 
 // 답안 01
 function solution(s) {
-    
-    // 처음은 앞글자 자르고 조건문으로 판단하려했는데 형변환 심지어 기호 먹히는 함수가 있었다.
     let answer = Number(s);
     return answer;
 }
